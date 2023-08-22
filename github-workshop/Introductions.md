@@ -54,7 +54,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 42. 
 43. 
 44. 
-45. rocky road 👽
+45. rocky road  👽
 46. 
 47. 
 48. 
